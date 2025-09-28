@@ -1,6 +1,4 @@
 # appointments-system
-proyecto final para conceptos de programación.
-
 Sistema de gestión de turnos para una veterinaria, desarrollado en C#.
 
 ## Características
