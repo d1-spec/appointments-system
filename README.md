@@ -1,6 +1,6 @@
 # Sistema de Turnos para Veterinaria
 
-Proyecto académico desarrollado como parte de la materia **Conceptos de Programación** (2025).  
+Proyecto desarrollado como parte de la materia **Conceptos de Programación** (2025).  
 El objetivo es gestionar clientes, mascotas y turnos de una veterinaria de forma simple.
 
 ---
