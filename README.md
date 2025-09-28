@@ -5,7 +5,7 @@ El objetivo es gestionar clientes, mascotas y turnos de una veterinaria de forma
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Registro de clientes (nombre, contacto, mascota).
 - Asignación de turnos a clientes.
 - Listado de turnos registrados.
@@ -13,16 +13,9 @@ El objetivo es gestionar clientes, mascotas y turnos de una veterinaria de forma
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Lenguaje:** C#
 - **Framework:** .NET
 - **Interfaz:** Consola
 - **IDE:** Sharpdevelop
-
----
-
-## 📦 Cómo ejecutar el proyecto
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/sistema-turnos-veterinaria.git
 
